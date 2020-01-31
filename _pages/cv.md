@@ -41,6 +41,25 @@ Skills
 * Communication skills
    * Oral presentations : Meetings of the American Physical Society, German Physical Society, Various Scientific Institutes in Europe and USA
    * Written : Several publications (9) in peer-reviewed scientific journals and several posters at conferences
+* Languages
+   * Fluent:  English, Assamese (Mother tongue)
+   * Intermediate:  German, Dutch, French, Polish, Hindi
+   
+ Membership of organisations
+ -------
+ -------
+ *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
+ *  Women Who Code Belfast,
+   
+
+Awards and Fellowships
+======
+
+* 2007-2009 : Indo-French Centre for Promotion of Advanced Research Fellowship
+* 2006 : Hirschfelder award for graduate women in Physics, Chemistry and Mathematics, UW- Madison
+* 2002 : Van Vleck Fellowship, Department of Physics, UW- Madison
+* 2002 : Joint CSIR-UGC Junior Research Fellowship
+* 2002 : President’s Silver Medal, Indian Institute of Technology, Guwahati
 
 Publications
 ======
@@ -60,13 +79,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards and Fellowships
-======
 
-* 2007-2009 : Indo-French Centre for Promotion of Advanced Research Fellowship
-* 2006 : Hirschfelder award for graduate women in Physics, Chemistry and Mathematics, UW- Madison
-* 2002 : Van Vleck Fellowship, Department of Physics, UW- Madison
-* 2002 : Joint CSIR-UGC Junior Research Fellowship
-* 2002 : President’s Silver Medal, Indian Institute of Technology, Guwahati
 
 
