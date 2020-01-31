@@ -19,15 +19,6 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 * 08/2009–09/2012: Postdoctoral Researcher, Fritz Haber Institute of the Max Planck Society, Berlin, Germany.
   *  Numerical modelling of the conformational preferences of isolated and micro-solvated biomolecules using density functional theory and ab initio molecular dynamics simulations. Analysis of large data sets and their visualisation, using
@@ -43,12 +34,13 @@ codes in Python, Perl and R
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer skills
+  * OS :  Linux/Unix, Windows
+  * Programming : Matlab, Mathematica, Fortran, C, bash, Python, Perl, R
+  * Others : MS/Open Office Suite, LaTeX, Parallelisation (MPI), Visualisation Software, High Performance Computing
+* Communication skills
+   * Oral presentations : Meetings of the American Physical Society, German Physical Society, Various Scientific Institutes in Europe and USA
+   * Written : Several publications (9) in peer-reviewed scientific journals (more than 200 communications citations), posters at conferences
 
 Publications
 ======
