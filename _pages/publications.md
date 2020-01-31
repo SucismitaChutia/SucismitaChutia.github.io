@@ -5,15 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Publications
 * M. Rossi, S. Chutia, M. Scheffler, and V. Blum: Validation challenge of Density-Functional Theory for peptides-example of Ac-Phe-Ala5-LysH+, doi: 10.1021/jp412055r. The Journal of Physical Chemistry A (2014).
