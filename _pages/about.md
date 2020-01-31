@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Hi ! I am a computational physicist with a background in academic research.
