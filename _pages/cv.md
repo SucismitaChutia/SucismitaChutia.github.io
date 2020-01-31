@@ -44,13 +44,6 @@ Skills
 * Languages
    * Fluent:  English, Assamese (Mother tongue)
    * Intermediate:  German, Dutch, French, Polish, Hindi
-   
- Membership of organisations
- -------
- 
- *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
- *  Women Who Code Belfast,
-   
 
 Awards and Fellowships
 ======
@@ -60,6 +53,13 @@ Awards and Fellowships
 * 2002 : Van Vleck Fellowship, Department of Physics, UW- Madison
 * 2002 : Joint CSIR-UGC Junior Research Fellowship
 * 2002 : President’s Silver Medal, Indian Institute of Technology, Guwahati
+
+Organisations
+======
+ 
+ *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
+ *  Women Who Code Belfast,
+   
 
 Publications
 ======
