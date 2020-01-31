@@ -47,7 +47,7 @@ Skills
    
  Membership of organisations
  -------
- -------
+ 
  *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
  *  Women Who Code Belfast,
    
