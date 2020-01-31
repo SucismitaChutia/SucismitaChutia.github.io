@@ -58,7 +58,7 @@ Organisations
 ======
  
  *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
- *  Women Who Code Belfast,
+ *  Women Who Code Belfast
    
 
 Publications
