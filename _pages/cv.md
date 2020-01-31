@@ -40,7 +40,7 @@ Skills
   * Others : MS/Open Office Suite, LaTeX, Parallelisation (MPI), Visualisation Software, High Performance Computing
 * Communication skills
    * Oral presentations : Meetings of the American Physical Society, German Physical Society, Various Scientific Institutes in Europe and USA
-   * Written : Several publications (9) in peer-reviewed scientific journals (more than 200 communications citations), posters at conferences
+   * Written : Several publications (9) in peer-reviewed scientific journals and several posters at conferences
 
 Publications
 ======
