@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Talks and posters"
+permalink: /talks/
+author_profile: true
+---
+
+{% include base_path %}
+
+
 Talks at conferences/seminars
 ------------------------
 * (March 2006) Conference: Detection and measurement of the Dzyaloshinskii Moriya interaction in double dot systems, APS March meeting, Baltimore (USA)
