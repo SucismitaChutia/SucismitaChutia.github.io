@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D., Theoretical condensed matter physics, University of Wisconsin-Madison, Wisconsin, USA (2007)
+* M.Sc. Physics, Indian Institute of Technology , Guwahati, India (2002)
+* B.Sc. Physics, Cotton College, Guwahati, India (2000
+
 
 Work experience
 ======
@@ -26,6 +28,18 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+* 08/2009–09/2012: Postdoctoral Researcher, Fritz Haber Institute of the Max Planck Society, Berlin, Germany.
+ *  Numerical modelling of the conformational preferences of isolated and micro-solvated biomolecules using density functional theory and ab initio molecular dynamics simulations. Analysis of large data sets and their visualisation, using
+codes in Python, Perl and R
+ * Coding for the Fortran based in-house ab initio molecular simulations package FHI-AIMS optimised for high performance computing
+* 09/2007–07/2009: Postdoctoral Research Scientist, Laboratoire de Physiques des Solides, Université Paris-Sud 11 , Orsay, France.
+ *  Modelling of the electronic structure and optical properties of Mn doped III-V (GaAs and InAs) semiconductor quantum dots using analytical and numerical methods (with Fortran based codes)
+* 09/2002–08/2007 : Research Assistant, University of Wisconsin-Madison Physics, Madison, USA.
+  * Multi-scale modelling of the valley splitting in SiGe/Si/SiGe quantum wells using analytical and numerical methods (using Matlab)
+  * Modelling of the field dependent coupling between spins in a double quantum dot system that affects qubit interaction during semiconductor based quantum computation
+  * Modelling of a set of universal gates for qubit operations for quantum computation with optically cooled rubidium atoms and experimental work with optically cooled atoms
+* 09-12/2002 : Teaching assistant, University of Wisconsin-Madison Physics, Madison, USA.
   
 Skills
 ======
@@ -57,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
