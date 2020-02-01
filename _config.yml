@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Sucismita Chutia"
+title                    : "Sucismita"
 title_separator          : "-"
 name                     : &name "Sucismita Chutia"
 description              : &description "personal description"
