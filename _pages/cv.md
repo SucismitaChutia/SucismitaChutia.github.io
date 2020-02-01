@@ -18,7 +18,7 @@ redirect_from:
 * B.Sc. Physics, Cotton College, Guwahati, India (2000)
 
 
-Professional Experience
+## Professional Experience
 ======
   
 * 08/2009–09/2012: Postdoctoral Researcher, Fritz Haber Institute of the Max Planck Society, Berlin, Germany.
@@ -33,7 +33,7 @@ codes in Python, Perl and R
   * Modelling of a set of universal gates for qubit operations for quantum computation with optically cooled rubidium atoms and experimental work with optically cooled atoms
 * 09-12/2002 : Teaching assistant, University of Wisconsin-Madison Physics, Madison, USA.
   
-Skills
+## Skills
 ======
 * Computer skills
   * OS :  Linux/Unix, Windows
@@ -46,7 +46,7 @@ Skills
    * Fluent:  English, Assamese (Mother tongue)
    * Intermediate:  German, Dutch, French, Polish, Hindi
 
-Awards and Fellowships
+## Awards and Fellowships
 ======
 
 * 2007-2009 : Indo-French Centre for Promotion of Advanced Research Fellowship
@@ -55,7 +55,7 @@ Awards and Fellowships
 * 2002 : Joint CSIR-UGC Junior Research Fellowship
 * 2002 : President’s Silver Medal, Indian Institute of Technology, Guwahati
 
-Organisations
+## Organisations
 ======
  
  *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
