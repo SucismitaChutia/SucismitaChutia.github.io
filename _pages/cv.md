@@ -11,7 +11,6 @@ redirect_from:
 
 
 ## Academic Qualifications
-======
 
 * Ph.D., Theoretical condensed matter physics, University of Wisconsin-Madison, Wisconsin, USA (2007)
 * M.Sc. Physics, Indian Institute of Technology , Guwahati, India (2002)
@@ -19,7 +18,6 @@ redirect_from:
 
 
 ## Professional Experience
-======
   
 * 08/2009–09/2012: Postdoctoral Researcher, Fritz Haber Institute of the Max Planck Society, Berlin, Germany.
   *  Numerical modelling of the conformational preferences of isolated and micro-solvated biomolecules using density functional theory and ab initio molecular dynamics simulations. Analysis of large data sets and their visualisation, using
@@ -34,7 +32,7 @@ codes in Python, Perl and R
 * 09-12/2002 : Teaching assistant, University of Wisconsin-Madison Physics, Madison, USA.
   
 ## Skills
-======
+
 * Computer skills
   * OS :  Linux/Unix, Windows
   * Programming : Matlab, Mathematica, Fortran, C, bash, Python, Perl, R
@@ -47,7 +45,6 @@ codes in Python, Perl and R
    * Intermediate:  German, Dutch, French, Polish, Hindi
 
 ## Awards and Fellowships
-======
 
 * 2007-2009 : Indo-French Centre for Promotion of Advanced Research Fellowship
 * 2006 : Hirschfelder award for graduate women in Physics, Chemistry and Mathematics, UW- Madison
@@ -56,8 +53,7 @@ codes in Python, Perl and R
 * 2002 : President’s Silver Medal, Indian Institute of Technology, Guwahati
 
 ## Organisations
-======
- 
+
  *  The German Physical Society (Deutsche Physikalische Gesellschaft-DPG)
  *  Women Who Code Belfast
    
