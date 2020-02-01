@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Academic Qualifications
+## Academic Qualifications
 ======
 
 * Ph.D., Theoretical condensed matter physics, University of Wisconsin-Madison, Wisconsin, USA (2007)
