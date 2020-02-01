@@ -41,7 +41,7 @@ Skills
   * Others : MS/Open Office Suite, LaTeX, Parallelisation (MPI), Visualisation Software, High Performance Computing
 * Communication skills
    * Oral presentations : Meetings of the American Physical Society, German Physical Society, Various Scientific Institutes in Europe and USA
-   * Written : Several publications (9) in peer-reviewed scientific journals and several posters at conferences
+   * Written : Several publications in peer-reviewed scientific journals and several posters at conferences
 * Languages
    * Fluent:  English, Assamese (Mother tongue)
    * Intermediate:  German, Dutch, French, Polish, Hindi
