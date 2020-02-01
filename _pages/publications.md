@@ -17,12 +17,12 @@ author_profile: true
 * M. Friesen, S. Chutia, C. Tahan and S.N. Coppersmith: Valley Splitting theory of SiGe/Si/SiGe quantum wells. Phys.Rev. B , 75, 115318 (2007)
 * S. Chutia, M. Friesen, and R. Joynt: Detection and measurement of the Dzyaloshinskii Moriya interaction in double dot systems. Phys.Rev. B , 73, 241304( R) (2006).
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[//]: # {% if author.googlescholar %}
+[//]: # You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+[//]: # {% endif %}
 
-{% include base_path %}
+[//]: # {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[//]: # {% for post in site.publications reversed %}
+ [//]: #  {% include archive-single.html %}
+[//]: # {% endfor %}
