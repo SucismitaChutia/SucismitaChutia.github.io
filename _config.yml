@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Sucismita"
+title                    : "Sucismita Chutia"
 title_separator          : "-"
 name                     : &name "Sucismita Chutia"
-description              : &description "personal description"
+description              : &description "personal website"
 url                      : https://SucismitaChutia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SucismitaChutia/SucismitaChutia.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : #"SucismitaChutia/SucismitaChutia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +83,7 @@ author:
   name             : "Sucismita Chutia"
   avatar           : "profile.png"
   bio              : "Physicist, Programmer and Data Scientist"
-  location         : "Location"
+  location         : "Belfast, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
