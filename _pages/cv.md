@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+Academic Qualifications
 ======
 
 * Ph.D., Theoretical condensed matter physics, University of Wisconsin-Madison, Wisconsin, USA (2007)
@@ -17,7 +18,7 @@ Education
 * B.Sc. Physics, Cotton College, Guwahati, India (2000)
 
 
-Work experience
+Professional Experience
 ======
   
 * 08/2009–09/2012: Postdoctoral Researcher, Fritz Haber Institute of the Max Planck Society, Berlin, Germany.
