@@ -1,6 +1,6 @@
 ---
-title: "Password guidelines"
-excerpt: "NIST password guidelines"
+title: "Identifying bad passwords"
+excerpt: ""
 collection: portfolio
 ---
 
