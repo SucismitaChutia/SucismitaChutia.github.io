@@ -6,9 +6,9 @@ collection: portfolio
 
 # Bad passwords and NIST guidelines
 
-## Rules of choosing a good password
+Analysis with R of the passwords of users from a fictional company applying the rules outlined in NIST Special Publication 800-63B to flag the users with bad passwords.
 
-In this project, we use the rules in NIST Special Publication 800-63B to go through the passwords of users from a fictional company and use R to flag the users with bad passwords.
 
+The link to the Jupyter notebook can be found [here](https://github.com/SucismitaChutia/SucismitaChutia.github.io/blob/master/_portfolio/Bad%20passwords%20and%20NIST%20guidelines.ipynb)
 
 
