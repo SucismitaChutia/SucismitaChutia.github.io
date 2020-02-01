@@ -1,6 +1,6 @@
 ---
 title: "Identifying bad passwords"
-excerpt: ""
+excerpt: "Using R analysis to identify bad passwords"
 collection: portfolio
 ---
 
