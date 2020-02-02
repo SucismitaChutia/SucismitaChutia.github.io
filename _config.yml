@@ -85,8 +85,8 @@ author:
   bio              : "Physicist, Programmer and Data Science enthusiast"
   location         : "Belfast, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"SucismitaChutia"
+  github           : "SucismitaChutia"
   google_plus      :
   keybase          :
   instagram        :
@@ -261,16 +261,16 @@ timezone: Europe/Belfast # http://en.wikipedia.org/wiki/List_of_tz_database_time
 # Plugins
 plugins:
   - jekyll-paginate
- # - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
- # - jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
- # - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
- # - jekyll-feed
+  - jekyll-feed
   - jemoji
 
 
