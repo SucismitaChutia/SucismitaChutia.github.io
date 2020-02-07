@@ -1,6 +1,6 @@
 ---
 title: "Half-time shows during the Super Bowl"
-excerpt: "Using R analysis of the Super Bowl"
+excerpt: "Using R analysis on data from the Super Bowl"
 collection: portfolio
 ---
 
