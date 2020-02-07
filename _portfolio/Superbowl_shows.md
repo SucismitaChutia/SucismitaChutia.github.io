@@ -1,12 +1,12 @@
 ---
-title: "Half-time shows during the Superbowl"
-excerpt: "Using R analysis of the Superbowl"
+title: "Half-time shows during the Super Bowl"
+excerpt: "Using R analysis of the Super Bowl"
 collection: portfolio
 ---
 
 ## TV, Halftime Shows and the Big Game
 
-Analysis of data from the Superbowl Halftime shows, the American football extravaganza.
+Analysis of data from the Super Bowl Halftime shows, the American football extravaganza.
 
 After exploring and cleaning the data, we're going to answer questions like:
 
