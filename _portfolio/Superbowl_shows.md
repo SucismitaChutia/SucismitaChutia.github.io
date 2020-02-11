@@ -15,4 +15,4 @@ After exploring and cleaning the data, we're going to answer questions like:
  * How have viewership, TV ratings, and advertisement costs evolved?
  * Who are the most prolific musicians in terms of halftime show performances?
 
-The link to the Jupyter notebook can be found [here](https://github.com/SucismitaChutia/SucismitaChutia.github.io/blob/master/_portfolio/Super%20bowl.ipynb)
+The link to the Jupyter notebook can be found [here](https://github.com/SucismitaChutia/SucismitaChutia.github.io/blob/master/_portfolio/Super%20Bowl.ipynb)
