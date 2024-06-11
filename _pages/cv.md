@@ -18,7 +18,9 @@ redirect_from:
 
 
 ## Professional Experience
-  
+* 08/2020–present: Research Scholar, Ronin Institute for Independent Scholarship
+  *  Research in condensed matter physics using atomistic simulations (density functional theory)
+* 09/2012-08/2020: Career break to focus on family
 * 08/2009–09/2012: Postdoctoral Researcher, Fritz Haber Institute of the Max Planck Society, Berlin, Germany.
   *  Numerical modelling of the conformational preferences of isolated and micro-solvated biomolecules using density functional theory and ab initio molecular dynamics simulations. Analysis of large data sets and their visualisation, using
 codes in Python, Perl and R
