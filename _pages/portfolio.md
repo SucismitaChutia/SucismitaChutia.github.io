@@ -10,7 +10,6 @@ author_profile: true
 
 Portfolio of data science projects using R and Jupyter notebooks demonstrating the usage of data cleaning, manipulation, exploration, visualization, and modeling on a variety of datasets.
 
-These guided projects from Datacamp.com have been worked on independently and the solutions are not provided by DataCamp.
 
 
 
